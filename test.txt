@@ -1,1 +1,5 @@
-哈师大很骄傲收到货
+git init
+git push
+git commit
+git pull
+git add
